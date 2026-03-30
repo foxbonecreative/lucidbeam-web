@@ -1,0 +1,219 @@
+Build a production-quality website for LucidBeam.
+
+IMPORTANT NON-NEGOTIABLES
+- Use the official LucidBeam logo as the primary brand mark in the header and hero.
+- Preserve LucidBeam’s ethics, trust language, and privacy-first positioning.
+- Match the dark premium look and layout feel of the current Replit app.
+- Include a visible Support button linking to: https://buymeacoffee.com/aaronpeekn
+- This is not a generic startup site. It must feel independent, ethical, calm, credible, and user-first.
+
+WHAT LUCIDBEAM IS
+LucidBeam is a privacy-first YouTube search interface for focused research.
+It proxies YouTube search through a backend and shows results in a clean React interface.
+No user accounts. No tracking. No profiling. No behavioral data sold.
+It is built to help people research intentionally, not get trapped in manipulative recommendation loops.
+
+BRAND POSITIONING
+- Name: LucidBeam
+- Core trust line: No accounts. No tracking. No selling data.
+- Alternate desktop trust line: No accounts. No profiling. No selling data.
+- Tone: thoughtful, premium, clear, restrained, trustworthy, independent
+- Visual style: dark UI, refined spacing, subtle depth, electric blue accents, crisp typography, polished SaaS-level presentation without feeling corporate or invasive
+
+PRIMARY GOAL
+Get visitors to click “Try LucidBeam” and use the app.
+
+SECONDARY GOAL
+Get aligned supporters to click “Support the Project”.
+
+PRIMARY CTA
+- Label: Try LucidBeam
+- URL: https://web-scraper-tool-aaronpeek.replit.app
+
+SECONDARY CTA
+- Label: Support the Project
+- URL: https://buymeacoffee.com/aaronpeekn
+
+PAGE TYPE
+Build a one-page marketing website / landing page for lucidbeam.org.
+It should be mobile-first, fully responsive, accessible, and production-ready.
+
+SITE STRUCTURE
+
+1. HEADER
+- Left: official LucidBeam logo
+- Right: navigation links that scroll to sections
+- Include a support button in the header
+- Sticky header on scroll
+- Header should feel close in spirit to the Replit app header
+
+2. HERO SECTION
+Headline:
+Search with clarity. Learn without the algorithm.
+
+Subheadline:
+LucidBeam helps you find useful videos with less manipulation, less noise, and more control.
+
+Requirements:
+- Place logo tastefully in hero if it improves design
+- Put primary CTA and secondary CTA above the fold
+- Show trust line clearly near CTA:
+  No accounts. No tracking. No selling data.
+- Add a short sub-note that this is a privacy-first YouTube research tool
+- Keep hero elegant, not cluttered
+
+3. TRUST BAR / VALUE STRIP
+Create 4 clean cards or chips:
+- Privacy-first
+- User-controlled filters
+- Cleaner discovery
+- Independent project
+
+4. HOW IT WORKS
+Create a 3-step section:
+- Search for a topic
+- Refine with focused filters
+- Explore relevant videos without algorithmic junk
+
+5. FEATURES / FILTERS SECTION
+Show LucidBeam’s key controls and match the actual app direction:
+- Sort by date
+- Unwatched only
+- Verified only
+- Small creators only
+- Exclude likely AI-generated
+- Channel exclusion controls
+
+Important copy note:
+Some filters are part of the interface direction and user control model.
+Do not overclaim that every filter is deeply enforced by complex backend ranking.
+Keep wording honest and product-safe.
+
+Suggested feature framing:
+- Focused search controls
+- Cleaner filtering
+- Channel-level exclusions
+- Privacy-respecting local preferences
+
+6. ETHICS / MANIFESTO SECTION
+This section is critical.
+Write it in plain English and make it feel like the moral center of the product.
+
+It must clearly communicate:
+- No accounts required
+- No profiling
+- No selling user data
+- No behavioral manipulation
+- No addictive recommendation loop design
+- Search preferences are local-first in spirit
+- LucidBeam is designed to support intentional research, not maximize screen time
+- It is an independent project guided by user interest, not surveillance incentives
+
+Include a short button or link:
+- Read the full charter
+This can scroll to an expanded manifesto block lower on the page.
+
+7. EXPANDED TRUST & ETHICS CHARTER
+Create a structured long-form section inspired by these headings:
+- Core Promise
+- Purpose
+- What LucidBeam Is
+- What LucidBeam Is Not
+- Privacy by Design
+- Infrastructure Reality
+- Third Parties
+- Monetisation
+- Measurement
+- Limitations
+- Future-Lock Commitments
+- Final Statement
+
+Write this carefully in plain English.
+Important factual guardrails:
+- LucidBeam uses YouTube search through a backend proxy
+- The YouTube API key stays server-side
+- There is no active account system in the user flow
+- There is no active behavioral profiling flow
+- Preferences like filters and excluded channels are stored locally on the user’s device
+- AI filtering may fail open if the external AI service is not configured
+Do not invent legal claims or guarantees that cannot be supported.
+
+8. ABOUT THE FOUNDER
+Founder name: Aaron
+
+Write a grounded founder section:
+- Aaron is an independent creator building ethical tools for focused digital research
+- The motivation is frustration with manipulative platforms, low-signal discovery, and surveillance-style product design
+- LucidBeam is built to give users more control and clearer intent when researching videos
+Do not invent fake credentials, fake company history, or fake achievements.
+
+If an image is uploaded, use it in a tasteful founder portrait block.
+If not, the layout must still look complete.
+
+9. FAQ
+Include concise FAQs:
+- What is LucidBeam?
+- Is LucidBeam free?
+- Do I need an account?
+- Does LucidBeam track me?
+- Why did you build this?
+- Does LucidBeam replace YouTube?
+- How does AI filtering work?
+
+For the AI filtering answer, be honest:
+LucidBeam can use an optional AI scoring service to help exclude likely AI-generated clickbait. If that service is unavailable, filtering should fail open rather than break the search experience.
+
+10. SUPPORT SECTION
+Create a clean support section for aligned users.
+Message:
+LucidBeam is free to use. If you believe in privacy-first, independent tools, you can support the project here.
+
+Button:
+Support the Project
+Link:
+https://buymeacoffee.com/aaronpeekn
+
+11. FOOTER
+Include:
+- LucidBeam logo or text mark
+- Short privacy-first line
+- Links to Try LucidBeam and Support the Project
+- A small note that LucidBeam is an independent project
+
+DESIGN REQUIREMENTS
+- Dark premium theme
+- Electric blue / cyan accents inspired by the logo
+- Soft borders, subtle gradients, glassy depth where tasteful
+- Strong spacing and visual hierarchy
+- Excellent mobile layout
+- Accessible contrast and semantic HTML structure
+- Fast-loading
+- No fake dashboards
+- No fake metrics
+- No fake testimonials
+- No fake partner logos
+- No pricing section
+- No newsletter popup
+- No manipulative urgency tactics
+
+COPY REQUIREMENTS
+Use copy that feels:
+- honest
+- restrained
+- premium
+- plain-English
+- not salesy
+- not overhyped
+
+TECHNICAL / SEO REQUIREMENTS
+- SEO title: LucidBeam | Privacy-First Video Research
+- Meta description: LucidBeam is a privacy-first video research tool for focused discovery without tracking, profiling, or manipulative algorithms.
+- Include proper alt text handling
+- Build as a polished single-page landing site
+- Add responsive header, hero, cards, manifesto layout, FAQ accordion, and footer
+
+FINAL IMPORTANT INSTRUCTIONS
+- Use the uploaded LucidBeam logo, not text-only branding
+- Make the site feel like a real public-facing home for the existing LucidBeam app
+- Keep the moral and product claims aligned with the real app
+- Prioritize trust, clarity, and credibility over hype
