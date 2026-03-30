@@ -16,9 +16,9 @@ export default function Founder() {
             <div
               className="overflow-hidden flex-shrink-0 mb-5"
               style={{
-                width: "140px",
-                height: "170px",
-                borderRadius: "12px",
+                width: "220px",
+                height: "270px",
+                borderRadius: "14px",
                 border: "2px solid hsl(174 72% 56% / 0.35)",
                 boxShadow: "0 0 0 4px hsl(174 72% 56% / 0.07), 0 4px 24px hsl(174 72% 56% / 0.12)",
               }}
@@ -32,6 +32,7 @@ export default function Founder() {
                   objectFit: "cover",
                   objectPosition: "center top",
                   display: "block",
+                  imageRendering: "auto",
                 }}
               />
             </div>

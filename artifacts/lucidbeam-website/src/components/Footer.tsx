@@ -6,7 +6,7 @@ export default function Footer() {
           {/* Logo */}
           <div className="flex items-center gap-3">
             <img
-              src="/lucidbeam-logo.jpg"
+              src="/lucidbeam-logo.png"
               alt="LucidBeam"
               className="h-7 w-auto rounded"
             />

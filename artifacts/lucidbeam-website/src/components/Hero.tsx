@@ -5,7 +5,7 @@ export default function Hero() {
         {/* Logo mark */}
         <div className="flex justify-center mb-8">
           <img
-            src="/lucidbeam-logo.jpg"
+            src="/lucidbeam-logo.png"
             alt="LucidBeam"
             className="h-14 sm:h-16 w-auto rounded-lg"
           />
