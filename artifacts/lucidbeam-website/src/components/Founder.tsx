@@ -14,10 +14,13 @@ export default function Founder() {
           <div className="flex flex-col items-center mb-8">
             {/* Portrait */}
             <div
-              className="w-28 h-28 sm:w-32 sm:h-32 rounded-full overflow-hidden flex-shrink-0 mb-5"
+              className="overflow-hidden flex-shrink-0 mb-5"
               style={{
+                width: "140px",
+                height: "170px",
+                borderRadius: "12px",
                 border: "2px solid hsl(174 72% 56% / 0.35)",
-                boxShadow: "0 0 0 5px hsl(174 72% 56% / 0.07), 0 4px 24px hsl(174 72% 56% / 0.12)",
+                boxShadow: "0 0 0 4px hsl(174 72% 56% / 0.07), 0 4px 24px hsl(174 72% 56% / 0.12)",
               }}
             >
               <img
@@ -27,7 +30,7 @@ export default function Founder() {
                   width: "100%",
                   height: "100%",
                   objectFit: "cover",
-                  objectPosition: "center 15%",
+                  objectPosition: "center top",
                   display: "block",
                 }}
               />
