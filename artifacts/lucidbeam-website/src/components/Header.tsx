@@ -36,13 +36,13 @@ export default function Header() {
       }`}
     >
       <div className="max-w-6xl mx-auto px-4 sm:px-6">
-        <div className="flex items-center justify-between h-16">
+        <div className="flex items-center justify-between h-20">
           {/* Logo */}
           <a href="#" className="flex items-center gap-2 flex-shrink-0">
             <img
-              src="/lucidbeam-logo.jpg"
+              src="/lucidbeam-logo.png"
               alt="LucidBeam"
-              className="h-8 w-auto rounded"
+              className="h-16 w-auto rounded"
             />
           </a>
 
