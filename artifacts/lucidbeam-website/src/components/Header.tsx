@@ -40,7 +40,7 @@ export default function Header() {
           {/* Logo */}
           <a href="#" className="flex items-center gap-2 flex-shrink-0">
             <img
-              src="/lucidbeam-logo.png"
+              src="/lucidbeam-logo.jpg"
               alt="LucidBeam"
               className="h-8 w-auto rounded"
             />
