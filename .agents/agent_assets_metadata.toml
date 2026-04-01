@@ -1,0 +1,8 @@
+uploads = []
+generated = []
+
+[[outputs]]
+id = "0onXUyQfCZD4_Qx9PvxeT"
+uri = "file://lucidbeam-website.tar.gz"
+type = "unspecified"
+title = "lucidbeam-website.tar.gz"
