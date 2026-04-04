@@ -18,7 +18,7 @@ export default function Footer() {
           {/* Links */}
           <nav className="flex items-center gap-6">
             <a
-              href="https://web-scraper-tool-aaronpeek.replit.app"
+              href="https://tool.lucidbeam.org/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm text-[hsl(215_20%_50%)] hover:text-[hsl(174_72%_56%)] transition-colors"

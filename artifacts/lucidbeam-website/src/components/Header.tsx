@@ -71,7 +71,7 @@ export default function Header() {
               Support
             </a>
             <a
-              href="https://web-scraper-tool-aaronpeek.replit.app"
+              href="https://tool.lucidbeam.org/"
               target="_blank"
               rel="noopener noreferrer"
               className="text-sm px-4 py-1.5 rounded-md btn-primary"
@@ -121,7 +121,7 @@ export default function Header() {
                 Support the Project
               </a>
               <a
-                href="https://web-scraper-tool-aaronpeek.replit.app"
+                href="https://tool.lucidbeam.org/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-sm px-4 py-2 rounded-md btn-primary text-center"

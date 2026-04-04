@@ -31,7 +31,7 @@ export default function Support() {
                 Support the Project
               </a>
               <a
-                href="https://web-scraper-tool-aaronpeek.replit.app"
+                href="https://tool.lucidbeam.org/"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="w-full sm:w-auto px-8 py-3 rounded-lg btn-ghost text-base"

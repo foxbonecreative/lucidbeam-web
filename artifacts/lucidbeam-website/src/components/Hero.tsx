@@ -31,7 +31,7 @@ export default function Hero() {
         {/* CTAs */}
         <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-8">
           <a
-            href="https://web-scraper-tool-aaronpeek.replit.app"
+            href="https://tool.lucidbeam.org/"
             target="_blank"
             rel="noopener noreferrer"
             className="w-full sm:w-auto px-7 py-3 rounded-lg btn-primary text-base font-semibold glow-cyan-sm"
