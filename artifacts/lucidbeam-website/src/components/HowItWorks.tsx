@@ -7,7 +7,7 @@ const STEPS = [
   {
     number: "02",
     title: "Refine with focused filters",
-    desc: "Apply controls like sort by date, verified channels only, or small creators only. Exclude specific channels or filter out likely AI-generated content. Your filter preferences are stored locally on your device.",
+    desc: "Apply focused controls to shape what you see. Hide videos you've already watched this session, target established or small creators, exclude specific channels, or filter out likely AI-generated content. Your filter preferences are stored locally on your device — LucidBeam does not transmit your choices to any server.",
   },
   {
     number: "03",
